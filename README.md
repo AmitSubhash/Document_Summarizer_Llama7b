@@ -7,3 +7,6 @@ Document Summarization and Q&amp;A platform. A hackathon project!
 Install requirements by:
 
     $ pip install -r requirements.txt
+
+
+This project runs on StreamLit
