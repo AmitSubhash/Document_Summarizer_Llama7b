@@ -15,3 +15,5 @@ Install requirements by:
 
 
 This project runs on StreamLit
+
+oh btw we won hehe!
